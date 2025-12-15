@@ -1,2 +1,2 @@
-# kinjalruecker.github.io
+# kruecker.github.io
 Personal website
